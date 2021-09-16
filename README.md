@@ -8,7 +8,7 @@
 
 - Also, as a little fore-warning, I am not a professional developer. I have a little experience with python3 building simple apps for data manipulation but I have no real backend or frontend experience. Assuming I can get this to show some signs of life, I will eventually be looking for much more experienced as well as much more talented developers to take over the development. Hopefully I strong community grows behind this idea and it is able to get that far.
 
-***Also, I know that I am most likely missing key concepts and implementations that will be needed in order for this to work so please remember I did this off of watching YouTube. So if there are things you thing I will need to add and/or flaws in my ideas please let me know! I would really appreciate any advice I can get!***
+***Also, I know that I am most likely missing key concepts and implementations that will be needed in order for this to work. I have no formal education in software engineering or in computer science. Everything I have done I learned from watching YouTube videos and reading articles. If there are things you know I am missing or things you think I need to do to improve upon this, please let me know. I would really appreciate any advice I can get!***
 
 
 
