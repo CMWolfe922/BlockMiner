@@ -1,4 +1,5 @@
 ## READ ME
+#### This does not actually work as of now. I am not a professional coder or block chain specialist. I built this just from watching videos and getting the idea and thinking it would be a cool way to mine crypto. I am trying to learn more to make this work but as of now there seem to be a lot of issues, I just haven't learned enough to figure them out yet. 
 
 ***BlockCoin - Concepts***
 
