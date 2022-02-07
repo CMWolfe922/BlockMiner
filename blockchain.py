@@ -13,7 +13,7 @@ class Block:
 		self.transaction = transaction
 		self.timestamp = timestamp
 		self.previous_hash = previous_hash
-		self.nonce = none
+		self.nonce = nonce
 
 	def hash(self):
 		block_string = json.dumps(self.__dict__, sort_keys=True)
